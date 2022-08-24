@@ -8,6 +8,7 @@
 
 </br>
 ## Email
+---
 <img src="https://img.shields.io/badge/rlgns923@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/kihun0923@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 </br>
