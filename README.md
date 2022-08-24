@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+Tech Stacks
+Techs I've used least one <br/>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
