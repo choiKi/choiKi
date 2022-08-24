@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 Tech Stacks
 Techs I've used least one <br/>
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
