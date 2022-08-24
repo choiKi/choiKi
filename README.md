@@ -2,8 +2,11 @@
 # **ChoiKi / Choi Ki Hun**
 
 
-<!-- Heading -->
-## Tech Stacks
+## **SNS** 
+---
+ [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> ](https://choiki923.tistory.com)
+
+## **Tech Stacks**
 
 <!-- Line -->
 ___
