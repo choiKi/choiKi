@@ -4,7 +4,7 @@
 ## 📚 Blog 📚 
 --- 
 
- [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> ](https://choiki923.tistory.com)   [<img src="https://</center> img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> ](https://blog.naver.com/rlgns923) 
+ [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> ](https://choiki923.tistory.com)   [<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> ](https://blog.naver.com/rlgns923) 
 
 </br>
 
