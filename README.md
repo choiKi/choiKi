@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
-
-# **ChoiKi / Choi Ki Hun** 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoiKi / Choi Ki Hun!&fontSize=90)
 
 
 ## 📚 Blog 📚 
