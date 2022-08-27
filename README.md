@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20Ki%20Hun&animation=blinking&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20Ki%20Hun&animation=fadeIn&fontSize=90)
 
 
 ## 📚 Blog 📚 
